@@ -1,6 +1,6 @@
 from PIL import Image
 
-# Created by L.D. Moon AKA BathThief
+# Created by L.D. Moon AKA BathThief AKA Loren Haskins
 
 # ██ 80-100 White
 # ▓▓ 60-80
